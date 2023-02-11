@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670152216 source:/home/user/projects/c_program/awd/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+
